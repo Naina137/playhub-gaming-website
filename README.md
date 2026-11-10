@@ -1,6 +1,6 @@
-# 🎮 PLAYHUB — Your Ultimate Gaming Zone
+#  PLAYHUB — Your Ultimate Gaming Zone
 
-### 🚀 Play • Challenge • Score • Repeat
+###  Play • Challenge • Score • Repeat
 
 Welcome to **PLAYHUB**, a browser-based gaming website designed to make casual gaming simple, interactive and enjoyable.
 
@@ -8,11 +8,11 @@ PLAYHUB brings multiple mini-games together in one place with an attractive gami
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-### 🎮 Play PLAYHUB Online
+###  Play PLAYHUB Online
 
-**[👉 CLICK HERE TO PLAY PLAYHUB](https://naina137.github.io/playhub-gaming-website/)**
+**[ CLICK HERE TO PLAY PLAYHUB](https://naina137.github.io/playhub-gaming-website/)**
 
 **GitHub Repository:**  
 [https://github.com/Naina137/playhub-gaming-website](https://github.com/Naina137/playhub-gaming-website)
@@ -21,19 +21,19 @@ PLAYHUB brings multiple mini-games together in one place with an attractive gami
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🎯 Interactive gaming interface
-- 🧠 Memory Match game
-- ⚡ Reaction Rush game
-- ⭕ Tic Tac Toe game
-- 🏆 Score and points tracking
-- 💾 Browser-based score storage
-- 📱 Responsive website layout
-- 🌙 Modern dark gaming theme
-- 🎨 Attractive visual design
-- ⚡ Easy browser access
-- 🆓 Free to play
+-  Interactive gaming interface
+-  Memory Match game
+-  Reaction Rush game
+- Tic Tac Toe game
+-  Score and points tracking
+-  Browser-based score storage
+-  Responsive website layout
+- Modern dark gaming theme
+-  Attractive visual design
+-  Easy browser access
+-  Free to play
 
 ---
 
@@ -41,13 +41,13 @@ PLAYHUB brings multiple mini-games together in one place with an attractive gami
 
 | Game | Description |
 |---|---|
-| 🧠 Memory Match | Test your memory by matching pairs. |
-| ⚡ Reaction Rush | Challenge your reaction speed. |
-| ⭕ Tic Tac Toe | Play the classic two-player game. |
+|  Memory Match | Test your memory by matching pairs. |
+|  Reaction Rush | Challenge your reaction speed. |
+|  Tic Tac Toe | Play the classic two-player game. |
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -60,7 +60,7 @@ PLAYHUB brings multiple mini-games together in one place with an attractive gami
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 You can run PLAYHUB locally on your computer.
 
@@ -97,7 +97,7 @@ The website is currently maintained as a simple HTML-based project.
 
 ---
 
-## 🌍 Deployment
+##  Deployment
 
 PLAYHUB is hosted using GitHub Pages.
 
@@ -113,7 +113,7 @@ https://naina137.github.io/playhub-gaming-website/
 
 ---
 
-## 🎯 Project Objective
+##  Project Objective
 
 The main objective of PLAYHUB is to create an accessible gaming platform where users can enjoy multiple simple games through a single website.
 
@@ -129,24 +129,24 @@ This project demonstrates practical frontend development concepts, including:
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 The project can be extended with:
 
-- 👤 User registration and login
-- 🏆 Global leaderboard
-- 🌐 Real-time multiplayer gaming
-- 🎮 More interactive games
-- 📊 Player statistics and profiles
-- ☁️ Cloud-based score storage
-- 🔊 Gaming sound effects
-- 🥇 Achievements and rewards
+-  User registration and login
+- Global leaderboard
+-  Real-time multiplayer gaming
+-  More interactive games
+- Player statistics and profiles
+-  Cloud-based score storage
+-  Gaming sound effects
+-  Achievements and rewards
 
 *These are planned improvements, not currently implemented features.*
 
 ---
 
-## 👩‍💻 About the Author
+##  About the Author
 
 ### NAINA KUMARI
 
@@ -189,13 +189,13 @@ No open-source license has been specified for this project yet. Please contact t
 
 If you like PLAYHUB:
 
-- ⭐ Star this repository.
-- 🎮 Try the live demo.
-- 📢 Share it with your friends.
-- 💡 Suggest new gaming features.
+-  Star this repository.
+- Try the live demo.
+-  Share it with your friends.
+-  Suggest new gaming features.
 
 ---
 
-### ❤️ Made with creativity, curiosity and code.
+###  Made with creativity, curiosity and code.
 
 **PLAYHUB — Play More. Challenge Yourself. Have Fun!**
