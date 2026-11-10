@@ -160,7 +160,7 @@ PLAYHUB is one of my projects focused on learning frontend development, JavaScri
 ### 🔗 Connect With Me
 
 - **GitHub:** [Naina137](https://github.com/Naina137)
-- **LinkedIn:** [Naina Kumari](https://www.linkedin.com/in/naina-kumari-06373132b/)
+- **LinkedIn:** [Naina Kumari](https://www.linkedin.com/in/naina-kumari-06373132b)
 
 ---
 
